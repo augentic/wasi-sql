@@ -1,4 +1,4 @@
-package omnia:sql@0.2.0-draft;
+package wasi:sql@0.2.0-draft;
 
 world imports {
 	import readwrite;
